@@ -1,2 +1,2 @@
-# test
+# Migrations API
 test
